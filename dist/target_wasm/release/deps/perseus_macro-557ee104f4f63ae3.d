@@ -1,0 +1,10 @@
+/Users/chudi/Documents/study/school/csc/class/lecture/todo-app/dist/target_wasm/release/deps/libperseus_macro-557ee104f4f63ae3.dylib: /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/perseus-macro-0.4.2/src/lib.rs /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/perseus-macro-0.4.2/src/auto_scope.rs /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/perseus-macro-0.4.2/src/entrypoint.rs /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/perseus-macro-0.4.2/src/rx_state.rs /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/perseus-macro-0.4.2/src/test.rs /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/perseus-macro-0.4.2/src/../README.proj.md
+
+/Users/chudi/Documents/study/school/csc/class/lecture/todo-app/dist/target_wasm/release/deps/perseus_macro-557ee104f4f63ae3.d: /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/perseus-macro-0.4.2/src/lib.rs /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/perseus-macro-0.4.2/src/auto_scope.rs /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/perseus-macro-0.4.2/src/entrypoint.rs /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/perseus-macro-0.4.2/src/rx_state.rs /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/perseus-macro-0.4.2/src/test.rs /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/perseus-macro-0.4.2/src/../README.proj.md
+
+/Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/perseus-macro-0.4.2/src/lib.rs:
+/Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/perseus-macro-0.4.2/src/auto_scope.rs:
+/Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/perseus-macro-0.4.2/src/entrypoint.rs:
+/Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/perseus-macro-0.4.2/src/rx_state.rs:
+/Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/perseus-macro-0.4.2/src/test.rs:
+/Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/perseus-macro-0.4.2/src/../README.proj.md:

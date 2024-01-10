@@ -1,0 +1,1 @@
+{"rustc":4443399816165520464,"features":"[]","target":12231725525480381794,"profile":3567329628440936607,"path":12346846837289137417,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/pin-project-lite-bfdb1fd5ede76e95/dep-lib-pin-project-lite"}}],"rustflags":["--cfg=engine"],"metadata":13744775421762973511,"config":2202906307356721367,"compile_kind":0}

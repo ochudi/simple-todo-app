@@ -1,0 +1,9 @@
+/Users/chudi/Documents/study/school/csc/class/lecture/todo-app/dist/target_wasm/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-ef97ceba071d8f44.rmeta: /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/lib.rs /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/queue.rs /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/task/singlethread.rs
+
+/Users/chudi/Documents/study/school/csc/class/lecture/todo-app/dist/target_wasm/wasm32-unknown-unknown/release/deps/libwasm_bindgen_futures-ef97ceba071d8f44.rlib: /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/lib.rs /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/queue.rs /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/task/singlethread.rs
+
+/Users/chudi/Documents/study/school/csc/class/lecture/todo-app/dist/target_wasm/wasm32-unknown-unknown/release/deps/wasm_bindgen_futures-ef97ceba071d8f44.d: /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/lib.rs /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/queue.rs /Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/task/singlethread.rs
+
+/Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/lib.rs:
+/Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/queue.rs:
+/Users/chudi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.39/src/task/singlethread.rs:
